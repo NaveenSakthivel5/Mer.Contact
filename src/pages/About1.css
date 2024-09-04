@@ -1,0 +1,466 @@
+.about .layer-1 {
+  width: 133px;
+  height: 28px;
+}
+.about .about-contact {
+  margin: 2px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 500;
+  font-size: 17px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.about .container-6 {
+  margin: 0 82.3px 63px 87px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1284.7px;
+  box-sizing: border-box;
+}
+.about .rectangle-1577 {
+  background: #333333;
+  margin: 246.9px 0 82.3px 0px;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1573 {
+  background: #1A1A1A;
+  margin-bottom: 159.8px;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1576 {
+  background: #1A1A1A;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .container-1 {
+  margin: 1.6px 0 82.3px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 79.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about .rectangle-1572 {
+  background: #1A1A1A;
+  margin-bottom: 156.5px;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1575 {
+  background: #1A1A1A;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .container-10 {
+  margin: 87.1px 3.2px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 79.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about .rectangle-1571 {
+  background: #333333;
+  margin: 0 3.2px 74.2px 0;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1574 {
+  background: #1A1A1A;
+  margin-left: 3.2px;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .container-11 {
+  margin: 87.1px 0 82.3px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 82.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about .rectangle-1570 {
+  background: #1A1A1A;
+  margin: 87.1px 6.5px 242.1px 0;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1568 {
+  background: #1A1A1A;
+  margin: 6.5px 0 322.8px 0;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1565 {
+  background: #373737;
+  margin-bottom: 0px;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1566 {
+  background: #1A1A1A;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .container-9 {
+  margin: 6.5px 0 237.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 79.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about .rectangle-1567 {
+  background: #1A1A1A;
+  margin-bottom: 75.8px;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1569 {
+  background: #252525;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .container-8 {
+  margin: 6.5px 163px 161.4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 79.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about .rectangle-1564 {
+  background: #313131;
+  margin: 6.5px 6.5px 322.8px 0;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1562 {
+  background: #121212;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1561 {
+  background: #1A1A1A;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .container-4 {
+  margin: 79.1px 0px 164.6px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 79.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about .rectangle-1563 {
+  background: #121212;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1560 {
+  background: #1A1A1A;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .container-3 {
+  margin: 0px 6.4px 243.7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 79.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about .rectangle-1559 {
+  background: #1A1A1A;
+  margin: 0 0px 329.2px 0;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1557 {
+  background: #373737;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1558 {
+  background: #1A1A1A;
+  margin-bottom: 74.2px;
+  align-self: flex-start;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1552 {
+  background: #1A1A1A;
+  margin: 0 6.5px;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .container-7 {
+  margin-bottom: 83.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 158.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about .rectangle-1555 {
+  background: #1A1A1A;
+  margin-bottom: 153.3px;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1553 {
+  background: #1A1A1A;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .container-5 {
+  margin: 85.5px 0 4.8px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 79.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about .rectangle-1556 {
+  background: #1A1A1A;
+  margin-bottom: 153.3px;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .rectangle-1554 {
+  background: #1A1A1A;
+  width: 79.1px;
+  height: 85.5px;
+}
+.about .container {
+  margin-bottom: 90.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 79.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about .group-21 {
+  opacity: 0.5;
+  margin-bottom: 290.3px;
+  display: flex;
+  flex-direction: row;
+  width: 1454px;
+  box-sizing: border-box;
+}
+.about .rectangle-1550 {
+  border: 1px solid #FFFFFF;
+  margin-top: 0px;
+  width: 13px;
+  height: 12px;
+}
+.about .rectangle-1549 {
+  border: 1px solid #FFFFFF;
+  width: 13px;
+  height: 13px;
+}
+.about .rectangle-1548 {
+  border: 1px solid #FFFFFF;
+  margin-top: 0px;
+  width: 13px;
+  height: 12px;
+}
+.about .group-18 {
+  margin: 0 1px 106px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 87px;
+  box-sizing: border-box;
+}
+.about .container-1 {
+  margin-right: 12.2px;
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 500;
+  font-size: 21px;
+  text-transform: uppercase;
+  color: #FFDD33;
+}
+.about .who-we-are {
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 500;
+  font-size: 21px;
+  text-transform: uppercase;
+  color: #FFDD33;
+}
+.about .group-49 {
+  margin: 0 18px 22px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.about .innovators {
+  margin: 0 1px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 0.875;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.about .in-motion {
+  margin-bottom: 33px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 0.875;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.about .at-mercellenie-automotive-we-epitomize-excellence-in-electric-mobility-we-craft-premium-electric-bikes-that-set-new-benchmarks-for-performance-and-environmental-responsibility-we-deliver-exceptional-quality-and-innovation-in-electric-mobility-setting-new-global-standards-with-premium-aesthetics-unmatched-performance-extensive-range-and-fast-charging {
+  margin-bottom: 119px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.at-mercellenie-automotive-we-epitomize-excellence-in-electric-mobility-we-craft-premium-electric-bikes-that-set-new-benchmarks-for-performance-and-environmental-responsibility-we-deliver-exceptional-quality-and-innovation-in-electric-mobility-setting-new-global-standards-with-premium-aesthetics-unmatched-performance-extensive-range-and-fast-charging-sub7 {
+  font-family: 'FontRegular';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.at-mercellenie-automotive-we-epitomize-excellence-in-electric-mobility-we-craft-premium-electric-bikes-that-set-new-benchmarks-for-performance-and-environmental-responsibility-we-deliver-exceptional-quality-and-innovation-in-electric-mobility-setting-new-global-standards-with-premium-aesthetics-unmatched-performance-extensive-range-and-fast-charging {
+  font-family: 'FontRegular';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.about .container {
+  margin-right: 12.2px;
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 500;
+  font-size: 21px;
+  text-transform: uppercase;
+  color: #FFDD33;
+}
+.about .our-approach {
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 500;
+  font-size: 21px;
+  text-transform: uppercase;
+  color: #FFDD33;
+}
+.about .group-48 {
+  margin: 0 0 13px 7.2px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.about .we-believe-in-delivering-electric-vehicles-that-are-not-just-eco-friendly-but-also-luxurious-and-high-performing-we-focus-on-creating-adriving-experience-that-is-unmatched-where-the-power-of-electric-meets-the-luxury-of-high-end-cars-our-team-is-dedicated-to-pushing-the-boundaries-of-technology-to-build-the-best-electric-vehicles {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.about .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1454px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about .image {
+  mix-blend-mode: luminosity;
+  background: linear-gradient(rgba(26, 26, 26, 0.17), rgba(26, 26, 26, 0.17)), url('assets/images/Image.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  top: 249px;
+  translate: -50% 0;
+  width: 749px;
+  height: 536px;
+}
+.about .electrifying {
+  position: absolute;
+  left: 80px;
+  top: 207px;
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 400;
+  font-size: 95px;
+  line-height: 0.885;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.about .the-thrill {
+  position: absolute;
+  left: 131px;
+  top: 296px;
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 400;
+  font-size: 95px;
+  line-height: 0.885;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.about .of-riding {
+  position: absolute;
+  top: 601px;
+  right: 131.3px;
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 400;
+  font-size: 95px;
+  line-height: 0.885;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.about .transforming-mobility-one-exhilarating-ride-at-atime {
+  position: absolute;
+  top: 501px;
+  right: 78px;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'FontRegular';
+  font-weight: 500;
+  font-size: 17px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.about {
+  background: #060606;
+  display: flex;
+  padding-top: 50px;
+  width: 1440px;
+  box-sizing: border-box;
+}
